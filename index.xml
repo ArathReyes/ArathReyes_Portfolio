@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio: Arath Reyes on Arath Alejandro Reyes Lopez</title>
+    <link>https://arathreyes.github.io/ArathReyes_Portfolio/</link>
+    <description>Recent content in Portfolio: Arath Reyes on Arath Alejandro Reyes Lopez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://arathreyes.github.io/ArathReyes_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stochastic Processes</title>
+      <link>https://arathreyes.github.io/ArathReyes_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://arathreyes.github.io/ArathReyes_Portfolio/post/project-1/</guid>
+      <description>Con esta herramienta podras simular Caminatas Aleatorias.
+  Podras simular el Movimiento Browniano en 1 y 2 dimensiones.
+  Podras hacer integracion estocastica
+  Utilizar el metodo de Monte Carlo, util para aproximar la solucion de integrales las cuales el integrando no tiene primitiva o integrales gaussianas.
+  bla bla bla
+  Poner una descripcion de las funciones mas importantes
+      Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Actuarial Science</title>
+      <link>https://arathreyes.github.io/ArathReyes_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://arathreyes.github.io/ArathReyes_Portfolio/post/project-2/</guid>
+      <description>La ventaja de este proyecto es que en la vida diaria de un actuario, uno tiene que calcular seguros vitalicios, temporales, dotales, etc. sin embargo, el procedimiento siempre consiste en que, dada una tabla de mortalidad, realiza algunos calculos simples con excel a mano, y esto lo realiza en mas de una ocasion, volviendose un procedimiento tedioso, inecesario y algoritmico, por ello, este proyecto lo que hace es que el usuario proporcina el nombre de la tabla de mortalidad y la edad de la o las personas, y calcula el resultado deseado, en vez de realizar este tedioso procedimiento por si mismo.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://arathreyes.github.io/ArathReyes_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arathreyes.github.io/ArathReyes_Portfolio/contact/</guid>
+      <description>Platform URL     LinkedIn: https://www.linkedin.com   GitHub: https://github.com/ArathReyes   (Algo mas?)         Email Me     This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
+    </item>
+    
+  </channel>
+</rss>
